@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pavel 👋</h1>
 
 <div align="center">
-<i>Connecting mathematical logic with web development.</i>
+<!-- <i>Connecting mathematical logic with web development.</i> -->
 </div>
 
 ## 👨‍💻 About Me
